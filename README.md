@@ -1,14 +1,14 @@
 # Study Tracker
-
 A Java program that records study sessions and calculates total study time.  
 It helps students understand their study patterns and identify weak subjects.
 
 ## Features
 - Add study sessions
 - Track subject and study time
+- Show all study sessions
 - Calculate total study time
 - Identify weak subjects
-- Simple console-based tracking system
+- Menu-based console application
 
 ## Technologies Used
 - Java
@@ -25,18 +25,18 @@ Study-Tracker-Java
 └── .gitignore
 
 ## How It Works
-1. User enters the subject and study duration.
-2. The program stores the study session.
-3. All sessions are saved in an ArrayList.
-4. The program calculates the total study time.
+1. User enters subject and study time.
+2. Program stores the session.
+3. Sessions are saved using ArrayList.
+4. Program calculates statistics like total study time.
 
 ## Example Output
 Study Tracker
-
-Enter subject: DSA  
-Enter minutes: 90  
-
-Total Study Time: 90 minutes
+1 Add Study Session  
+2 Show All Sessions  
+3 Show Total Study Time  
+4 Show Weak Subject  
+5 Exit
 
 ## Future Improvements
 - Weekly study reports
