@@ -7,6 +7,6 @@ Features
 - Calculate total study time
 
 Technology
-Java
-ArrayList
-Object Oriented Programming
+- Java
+- ArrayList
+- Object Oriented Programming
