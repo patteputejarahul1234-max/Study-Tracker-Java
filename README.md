@@ -31,7 +31,9 @@ Study-Tracker-Java
 4. Program calculates statistics like total study time.
 
 ## Example Output
+
 Study Tracker
+
 1 Add Study Session  
 2 Show All Sessions  
 3 Show Total Study Time  
