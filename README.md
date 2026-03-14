@@ -22,15 +22,6 @@ It helps students understand their study patterns and identify weak subjects.
 - Basic algorithm to detect minimum study time
 - Console-based menu system
 
-## Project Structure
-Study-Tracker-Java
-│
-├── Main.java
-├── StudySession.java
-├── StudyTracker.java
-├── README.md
-└── .gitignore
-
 ## How It Works
 1. User enters subject and study time.
 2. Program stores the session.
@@ -56,4 +47,3 @@ Session added.
 ## Future Improvements
 - Weekly study reports
 - Graph visualization
-- Mobile app version
